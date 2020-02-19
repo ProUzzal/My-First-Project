@@ -1,0 +1,80 @@
+*{margin:0;padding:0; outline:0}
+.templete{width: 950px; background-color: burlywood; margin:5px auto 0 auto;}
+.clear{overflow:hidden;}
+.body{font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 15px; color: black;}
+.headersection{height: 130px; background-color: darkgrey;}
+.headersection h2{margin:10px; color:red; margin:2px;}
+.headersection h2 marquee{  
+    margin: 4px;
+    font-size: 28px;
+    background-color: #FFEEE9;
+    width: 809px;
+    border: 2px dotted purple;
+}
+.headersection h2 span{color:rgb(8, 128, 240); font-weight: bold;}
+.logo{}
+.logo img{ width: 71px;
+        margin: 11px;
+    float: left;}
+.logo h1 {
+    margin: 10px;
+    float: left;
+    font-size: 52px;
+    color: #63005B;
+    border: 2px solid rebeccapurple;
+    border-radius: 18px;
+}
+.navsection{height: 40px;}
+.navsection ul{ margin: 0; padding: 0; list-style: none;}
+.navsection ul li{display:block; float: left;}
+.navsection ul li a {display: block;
+background-color: blue;
+color: white;
+font-weight: bold;
+text-decoration: none;
+border: 2px solid white;
+margin: 5px;
+padding: 4px;
+}
+.navsection ul li a:hover{background:red; color: white;}
+.contentsection{}
+.maincont { width: 500px;
+    height: 509px;}
+.maincont h3{background-color: lightblue;
+    color: black;
+       margin: 9px;
+}
+
+
+.maincont p{ display: block; border: 7px solid white;
+    padding: 6px;
+    margin: 6px;
+    text-align: justify;
+    line-height: 30px;
+    border-radius: 17px;}
+    .maincont img {
+        width: 33%;
+    float: right;
+    margin: 18px 21px -10px 12px;
+    padding: -7px 5px;
+    border: 2px solid red;
+    border-radius: 18px;
+    }
+.sidebar {width: 200px;
+    height: 100px;
+float: right;
+background-color: cornflowerblue;
+margin-top: 5px;}
+
+.sidebar h3{ background-color:white;}
+
+.sidebar p{}
+
+
+.footersection {
+    height: 38px;
+    font-size: 16px;
+    text-align: center;
+    color: red;}
+    #Jodu{background-color: greenyellow; color:red;}
+.footersection p{9px;}
